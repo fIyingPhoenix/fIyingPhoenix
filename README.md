@@ -21,7 +21,7 @@ because i think that knowledge need to be for free for the one how want to learn
         srcset="https://github-readme-stats.vercel.app/api?username=fIyingPhoenix&show_icons=true"
         media="(prefers-color-scheme: light,  prefers-color-scheme: no-preference)"
     />
-        <img src="https://github-readme-stats.vercel.app/api?username=fIyingPhoenix&show_icons=true" alt="stats" height="170"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=fIyingPhoenix&show_icons=true" alt="stats" height="180"> 
 </picture>
 <picture>
     <source 
@@ -32,7 +32,7 @@ because i think that knowledge need to be for free for the one how want to learn
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fIyingPhoenix&show_icons=true"
         media="(prefers-color-scheme: light,  prefers-color-scheme: no-preference)"
     />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fIyingPhoenix&show_icons=true"alt="stats" height="170" "> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fIyingPhoenix&show_icons=true"alt="stats" height="180" "> 
 </picture>
 </div>
 <sub >Provided by: <a href="https://github-readme-stats.vercel.app/">GitHub Readme Stats</a></sub>
