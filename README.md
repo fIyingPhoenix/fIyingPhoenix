@@ -1,5 +1,6 @@
+
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/81469821/223210531-7075e4bf-c92c-4230-b7bc-ce25cc149e58.png" alt="Logo" width="300" height="300"> 
+    <img src="https://github.com/user-attachments/assets/299ad51c-00ce-4453-8497-1bd463f7c56c" alt="Logo" width="300" height="300"> 
     <h1 align="center">Andrei C</h1>
 <p align="center">
 
