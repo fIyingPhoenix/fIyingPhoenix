@@ -9,7 +9,7 @@ I started coding just for fun, but it quickly turned into a deep passion for bui
 I mainly work with <strong>C#</strong>, but I also enjoy diving into <strong>Python, Java, HTML/CSS, and Shell scripting</strong>, 
 anything that challenges me and helps me grow!<br><br>
 
-I work hands-on with <strong>Linux environments</strong>, set up and manage <strong>Docker containers</strong>, and  
+I work hands-on with <strong>Linux environments</strong>, set up and manage <strong>Docker containers and VM</strong>,  
 configure <strong>VPNs, firewalls, internal networks</strong>, and <strong>web servers</strong> for secure, scalable solutions.<br><br>
 
 I also configure <strong>reverse proxies</strong> like Nginx or Apache, manage <strong>SSL certificates</strong>, and maintain  
