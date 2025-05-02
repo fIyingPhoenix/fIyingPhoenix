@@ -1,17 +1,32 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/81469821/223210531-7075e4bf-c92c-4230-b7bc-ce25cc149e58.png" alt="Logo" width="300" height="300"> 
-    <h1 align="center">Flying Phoenix</h1>
-    <p>Learning coding for fun!</p>
-<p align="center"> I'm a self-taught passionate hobby C# developer with ♥ for coding. </p>
-<p align="center"> My goal for the future is to learn more languages, to understand better C# and to do open source stuff, 
-because i think that knowledge need to be for free for the one how want to learn!</p>
+    <h1 align="center">Andrei C</h1>
+<p align="center">
+
+I'm a self-taught and passionate developer, currently studying to become an IT specialist in system integration.  
+I started coding just for fun, but it quickly turned into a deep passion for building, experimenting, and learning.<br><br>
+
+I mainly work with <strong>C#</strong>, but I also enjoy diving into <strong>Python, Java, HTML/CSS, and Shell scripting</strong>, 
+anything that challenges me and helps me grow!<br><br>
+
+I work hands-on with <strong>Linux environments</strong>, set up and manage <strong>Docker containers</strong>, and  
+configure <strong>VPNs, firewalls, internal networks</strong>, and <strong>web servers</strong> for secure, scalable solutions.<br><br>
+
+I also configure <strong>reverse proxies</strong> like Nginx or Apache, manage <strong>SSL certificates</strong>, and maintain  
+<strong>DNS settings</strong> to ensure smooth, encrypted web access. <br><br>
+
+In addition, I enjoy designing <strong>NAS backup systems</strong> and working with <strong>database servers</strong>  
+to ensure data integrity and uptime. <br><br>
+
+I believe in open-source and think knowledge should be free for anyone who wants to learn just like I did! 
+</p>
 </div>
 <p>
 </p>
 <p>
 </p>
 <h2 align="left">📈 My Stats!</h2>
-<div align="left" >  
+<div align="center" >  
 <picture>
     <source 
         srcset="https://github-readme-stats.vercel.app/api?username=fIyingPhoenix&show_icons=true&bg_color=1C2128&text_color=ffffff&border_color=444C56"
@@ -25,29 +40,14 @@ because i think that knowledge need to be for free for the one how want to learn
 </picture>
 <picture>
     <source 
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fIyingPhoenix&show_icons=true&bg_color=1C2128&text_color=ffffff&border_color=444C56"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fIyingPhoenix&show_icons=true&bg_color=1C2128&text_color=ffffff&border_color=444C56&layout=compact"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fIyingPhoenix&show_icons=true"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fIyingPhoenix&show_icons=true&layout=compact"
         media="(prefers-color-scheme: light,  prefers-color-scheme: no-preference)"
     />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fIyingPhoenix&show_icons=true"alt="stats" height="180" "> 
-</picture>
-</div>
-<sub >Provided by: <a href="https://github-readme-stats.vercel.app/">GitHub Readme Stats</a></sub>
-<h2 align="left">👨‍💻 My Projects!</h2>
-<div align="left">  
-<picture>
-    <source 
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=fIyingPhoenix&repo=TrionControlPanel&bg_color=1C2128&text_color=ffffff&border_color=444C56"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=fIyingPhoenix&repo=TrionControlPanel"
-        media="(prefers-color-scheme: light,  prefers-color-scheme: no-preference)"
-    />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fIyingPhoenix&repo=TrionControlPanel" alt="stats" height="150"> 
 </picture>
 </div>
 <sub >Provided by: <a href="https://github-readme-stats.vercel.app/">GitHub Readme Stats</a></sub>
