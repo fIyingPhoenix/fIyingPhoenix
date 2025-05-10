@@ -18,8 +18,6 @@ I also configure <strong>reverse proxies</strong> like Nginx or Apache, manage <
 
 In addition, I enjoy designing <strong>NAS backup systems</strong> and working with <strong>database servers</strong>  
 to ensure data integrity and uptime. <br><br>
-
-I believe in open-source and think knowledge should be free for anyone who wants to learn just like I did! 
 </p>
 </div>
 <p>
